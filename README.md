@@ -4,9 +4,8 @@ Some courses or papers I have learned
 ## Table of Contents
 
 - [Online Courses](#online-courses)
-
 - [Papers](#papers)
-  - [Survey](#survey)
+  - [Survey](#survwy)
   - [Image Classification](#image-classification)
     - [Backbone](#backbone)
     - [Visualization](#visualization)
@@ -22,12 +21,10 @@ Some courses or papers I have learned
     - [Instance segmentation](#instance-segmentation)
     - [Panoptic segmentation](#panoptic-segmentation)
   - [Domain Adaptation](#domain-adaptation)
-  
   - [Nautre Language Process](#nautre-language-process)
   - [EEG](#eeg)
     - [Generic](#generic-eeg)
     - [Sleep Stage Classification](#sleep-stage-classification)
-
 - [Software and Skills](#software-and-skills)
 
 ## Online Courses
