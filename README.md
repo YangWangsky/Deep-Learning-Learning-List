@@ -1,6 +1,6 @@
 # Deep-Learning-Learning-List
 
-Some courses or papers I have learned
+Some courses or papers I have learned.
 
 ## Table of Contents
 
